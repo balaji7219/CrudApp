@@ -1,2 +1,2 @@
 # CrudApp
-Employee management App,New Add emp,delete,update, search functionality .sate mage by using Redux-toolkit
+Employee management App, Add,delete,update, search functionality,State manage by redux-toolkit
